@@ -53,7 +53,7 @@ Tools
 A full-stack healthcare appointment platform with authentication, role-based access, calendar scheduling, and email workflows.
 
 Tech:HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
-Live Demo:** https://gazimagusa-appointment-system-production.up.railway.app/Login/PatientLogin.html
+Live Demo: https://gazimagusa-appointment-system-production.up.railway.app/Login/PatientLogin.html
 
 
 📫 Contact
