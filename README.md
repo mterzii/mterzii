@@ -1,4 +1,3 @@
-Personal GitHub profileshowcasing my work as a Full-Stack Web Developer.
 👋 Hi, I'm Mert Terzi
 
 💻 Full-Stack Web Developer building production-ready web applications  
