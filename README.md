@@ -1,5 +1,5 @@
 👋 Hi, I'm Mert Terzi
-
+---
 💻 Full-Stack Web Developer building production-ready web applications  
 🚀 Working with modern frontend and backend technologies to solve real user problems
 <hr />
