@@ -1,8 +1,9 @@
-Personal GitHub profile README showcasing my work as a Full-Stack Web Developer.
+Personal GitHub profileshowcasing my work as a Full-Stack Web Developer.
 👋 Hi, I'm Mert Terzi
 
 💻 Full-Stack Web Developer building production-ready web applications  
 🚀 Working with modern frontend and backend technologies to solve real user problems
+<hr />
 
 
 💡 About Me
@@ -11,6 +12,7 @@ Personal GitHub profile README showcasing my work as a Full-Stack Web Developer.
 🎓 Computer Engineering graduate with a strong foundation in web application development  
 🛠 Experienced in building end-to-end web applications, from responsive UIs to backend APIs and databases  
 📈 Focused on clean architecture, maintainable code, and real-world problem solving
+<hr />
 
 🛠 Tech Stack
 
@@ -46,6 +48,7 @@ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+<hr />
 
 
 📌 Featured Projects
