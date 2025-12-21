@@ -7,7 +7,6 @@
 
 💡 About Me
 
-🌍 Based in Cyprus  
 🎓 Computer Engineering graduate with a strong foundation in web application development  
 🛠 Experienced in building end-to-end web applications, from responsive UIs to backend APIs and databases  
 📈 Focused on clean architecture, maintainable code, and real-world problem solving
