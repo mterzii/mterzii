@@ -59,6 +59,15 @@ A full-stack healthcare appointment platform with authentication, role-based acc
 Tech:HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
 Live Demo: https://gazimagusa-appointment-system-production.up.railway.app/
 
+🏭 UCGUL Industrial Website
+
+A modern, responsive corporate website built for an industrial manufacturing company.
+Includes dynamic activity management, secure admin authentication, and optimized performance for production environments.
+
+Tech Stack: React, TypeScript, Vite, Tailwind CSS, Supabase
+Features: Admin Panel, Secure Auth (RLS), Email Integration, Responsive Design
+
+Live Demo: [https://gazimagusa-appointment-system-production.up.railway.app/](https://www.3gulmakina.com/)
 
 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/mert-terzi  
