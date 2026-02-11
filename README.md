@@ -67,7 +67,7 @@ Includes dynamic activity management, secure admin authentication, and optimized
 Tech Stack: React, TypeScript, Vite, Tailwind CSS, Supabase
 Features: Admin Panel, Secure Auth (RLS), Email Integration, Responsive Design
 
-Live Demo: (https://www.3gulmakina.com/)
+Live Demo: https://www.3gulmakina.com/
 
 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/mert-terzi  
