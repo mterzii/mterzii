@@ -1,19 +1,18 @@
 👋 Hi, I'm Mert Terzi
 ---
-💻 Full-Stack Web Developer building production-ready web applications  
-🚀 Working with modern frontend and backend technologies to solve real user problems
+Full-Stack Web Developer building production-ready web applications  
+ Working with modern frontend and backend technologies to solve real user problems
 <hr />
 
 
-💡 About Me
+Experienced in building end-to-end web applications...
 
 🎓 Computer Engineering graduate with a strong foundation in web application development  
 🛠 Experienced in building end-to-end web applications, from responsive UIs to backend APIs and databases  
 📈 Focused on clean architecture, maintainable code, and real-world problem solving
 <hr />
 
-🛠 Tech Stack
-
+ Tech Stack
 Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
